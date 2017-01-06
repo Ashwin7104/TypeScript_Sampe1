@@ -1,0 +1,7 @@
+It incluedesAnuglarJS + Typescript + add project and get project Sample
+
+
+<PropertyGroup>
+<TypeScriptSourceMap>true</TypeScriptSourceMap>
+</PropertyGroup>
+<Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\TypeScript\Microsoft.TypeScript.targets" />
