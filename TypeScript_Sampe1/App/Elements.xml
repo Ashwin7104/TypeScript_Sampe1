@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="App">
+    <File Path="App\Project\Project.js" Url="App/Project/Project.js" ReplaceContent="TRUE" />
+    <File Path="App\Project\Project.js.map" Url="App/Project/Project.js.map" ReplaceContent="TRUE" />
+    <File Path="App\Project\ProjectCtrl.js" Url="App/Project/ProjectCtrl.js" ReplaceContent="TRUE" />
+    <File Path="App\Project\ProjectCtrl.js.map" Url="App/Project/ProjectCtrl.js.map" ReplaceContent="TRUE" />
+    <File Path="App\Project\ProjectService.js" Url="App/Project/ProjectService.js" ReplaceContent="TRUE" />
+    <File Path="App\Project\ProjectService.js.map" Url="App/Project/ProjectService.js.map" ReplaceContent="TRUE" />
+    <File Path="App\App.js" Url="App/App.js" ReplaceContent="TRUE" />
+    <File Path="App\App.js.map" Url="App/App.js.map" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

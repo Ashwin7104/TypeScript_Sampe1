@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\App_1.js" Url="Scripts/App_1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\microsoft-ajax\microsoft.ajax.d.ts" Url="Scripts/typings/microsoft-ajax/microsoft.ajax.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.slim.min.map" Url="Scripts/jquery-3.1.1.slim.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.slim.min.js" Url="Scripts/jquery-3.1.1.slim.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.slim.js" Url="Scripts/jquery-3.1.1.slim.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.min.map" Url="Scripts/jquery-3.1.1.min.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.min.js" Url="Scripts/jquery-3.1.1.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.js" Url="Scripts/jquery-3.1.1.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\jquery-3.1.1.intellisense.js" Url="Scripts/jquery-3.1.1.intellisense.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\jquery\jquery.d.ts" Url="Scripts/typings/jquery/jquery.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular.d.ts" Url="Scripts/typings/angularjs/angular.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-scenario.d.ts" Url="Scripts/typings/angularjs/angular-scenario.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-sanitize.d.ts" Url="Scripts/typings/angularjs/angular-sanitize.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-route.d.ts" Url="Scripts/typings/angularjs/angular-route.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-resource.d.ts" Url="Scripts/typings/angularjs/angular-resource.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-mocks.d.ts" Url="Scripts/typings/angularjs/angular-mocks.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-cookies.d.ts" Url="Scripts/typings/angularjs/angular-cookies.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\typings\angularjs\angular-animate.d.ts" Url="Scripts/typings/angularjs/angular-animate.d.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\version.json" Url="Scripts/version.json" ReplaceContent="TRUE" />
+    <File Path="Scripts\errors.json" Url="Scripts/errors.json" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.min.js.map" Url="Scripts/angular.min.js.map" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.min.js" Url="Scripts/angular.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\angular.js" Url="Scripts/angular.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\AngularUI\ui-router.min.js" Url="Scripts/AngularUI/ui-router.min.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\AngularUI\ui-router.js" Url="Scripts/AngularUI/ui-router.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

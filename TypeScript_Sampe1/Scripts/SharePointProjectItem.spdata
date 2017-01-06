@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="App_1.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\microsoft-ajax\microsoft.ajax.d.ts" Target="Scripts\typings\microsoft-ajax\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.slim.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.slim.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.slim.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.min.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="jquery-3.1.1.intellisense.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\jquery\jquery.d.ts" Target="Scripts\typings\jquery\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-scenario.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-sanitize.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-route.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-resource.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-mocks.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-cookies.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="typings\angularjs\angular-animate.d.ts" Target="Scripts\typings\angularjs\" Type="ElementFile" />
+    <ProjectItemFile Source="version.json" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="errors.json" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="angular.min.js.map" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="angular.min.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="angular.js" Target="Scripts\" Type="ElementFile" />
+    <ProjectItemFile Source="AngularUI\ui-router.min.js" Target="Scripts\AngularUI\" Type="ElementFile" />
+    <ProjectItemFile Source="AngularUI\ui-router.js" Target="Scripts\AngularUI\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
